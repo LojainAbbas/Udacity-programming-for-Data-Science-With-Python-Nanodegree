@@ -7,7 +7,8 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
 ### Files used
 Include the files used
