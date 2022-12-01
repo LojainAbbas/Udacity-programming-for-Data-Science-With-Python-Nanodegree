@@ -1,10 +1,11 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### *Udacity-programming-for-Data-Science-With-Python-Nanodegree*
 
-### Date created
-Include the date you created this project and README file.
+### *Project 1: Investigate a Relational Database*
+*Description*
+During this project, I ran SQL queries based on a database of movie rentals and built visualizations to demonstrate the output of their queries.
+In order to complete the presentation component, the student had to create four slides, each containing (a) a question of interest, (b) a SQL query to answer the question, (c) a visualization based on the final results of the SQL queries that answered the question, and (d) a small summary.
 
-### Project Title
-Replace the Project Title
+
 
 ### Description
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
