@@ -1,19 +1,19 @@
-### *Udacity-programming-for-Data-Science-With-Python-Nanodegree*
+### Date created
+July.26 2020
 
-Date created
-December 2022
+# Post your Work on GitHub
 
-.
-### *Project 1: Investigate a Relational Database*
-*Description*
-During this project, I ran SQL queries based on a database of movie rentals and built visualizations to demonstrate the output of their queries.
-In order to complete the presentation component, the student had to create four slides, each containing (a) a question of interest, (b) a SQL query to answer the question, (c) a visualization based on the final results of the SQL queries that answered the question, and (d) a small summary.
-.
-### *Project 2: Explore US Bikeshare Data*
-*Description*
-This project involves writing Python code to import US bike share data and computing descriptive statistics to answer interesting questions. The statistics will also be presented as an interactive experience in the terminal using a script that takes raw input.
-.
-### *Project 3: Post your Work on GitHub*
-*Description*
-This project consisted in using Git and GitHub with a simulated workflow to refactor Project 1&2.
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+### Description
+In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
+
+### List of software, firmware and hardware you may require.
+* Installing GIT tool : https://git-scm.com/downloads.
+
+### Files used
+1. The following file contains necessary commands used to do tasks:
+   * Git Commands Documentation.pdf	
+2. The following files helps to understand the Git key terms:
+   * Git-KeyTerms.pdf
+
+### Credits
+* [Git documentation is very usefull.](https://git-scm.com/doc)
